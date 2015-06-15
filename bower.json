@@ -1,9 +1,9 @@
 {
-  "name": "baratheoneventsapp",
+  "name": "baratheon-material-eventsapp",
   "version": "0.0.0",
   "homepage": "https://github.com/AngularJSDublin/baratheoneventsapp",
   "authors": [
-    "PJ <yorko9999@gmail.com>"
+    "Kzai <killian86@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
